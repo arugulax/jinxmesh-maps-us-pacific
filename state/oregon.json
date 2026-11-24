@@ -1,0 +1,242 @@
+{
+ "name": "oregon",
+ "format": "JMVM 4",
+ "group": 4255,
+ "bytes": 810118325,
+ "pieces": [
+  {
+   "file": "oregon-1.jmv",
+   "bytes": 26735701,
+   "sha256": "0415fa68da599bbcabb4c51e27f8df2fe804436c9a4e25b873ea087df48fa113",
+   "south": 45.58329,
+   "west": -124.40918,
+   "north": 46.34693,
+   "east": -123.04688
+  },
+  {
+   "file": "oregon-2.jmv",
+   "bytes": 32572884,
+   "sha256": "39ff13a2a65943b47e05be199302a8914db7cabcf01f3335890dce75b48a792c",
+   "south": 45.08904,
+   "west": -123.04688,
+   "north": 46.19504,
+   "east": -121.64062
+  },
+  {
+   "file": "oregon-3.jmv",
+   "bytes": 20876055,
+   "sha256": "15e9aa1ed85f830e2882740b476ceba0f67493d4aa222cdeeaeb8f039d3c266a",
+   "south": 44.59047,
+   "west": -121.64062,
+   "north": 45.76752,
+   "east": -120.9375
+  },
+  {
+   "file": "oregon-4.jmv",
+   "bytes": 41504311,
+   "sha256": "8ac912806ab2a9a171a6701ab34c50e6b7aafaea90eac52a0e3a5d677c5e0389",
+   "south": 44.59047,
+   "west": -120.9375,
+   "north": 45.9817,
+   "east": -119.53125
+  },
+  {
+   "file": "oregon-5.jmv",
+   "bytes": 28548053,
+   "sha256": "57d6a28e3ed105f9b8fe8d54f05ea21fb48c76ea74dc086ac350918c4d681e7e",
+   "south": 45.08904,
+   "west": -119.53125,
+   "north": 46.04274,
+   "east": -118.125
+  },
+  {
+   "file": "oregon-6.jmv",
+   "bytes": 34058402,
+   "sha256": "46f4b8633b7b239c19872d08609b670a900d687b1cbba9be93373e29bf611d05",
+   "south": 44.59047,
+   "west": -118.125,
+   "north": 46.04274,
+   "east": -117.42188
+  },
+  {
+   "file": "oregon-7.jmv",
+   "bytes": 20340869,
+   "sha256": "249c525736b1084a2762af97bbd4456f56a09decf6f462a7e8d15c1105a6e5f2",
+   "south": 45.58329,
+   "west": -117.42188,
+   "north": 46.04274,
+   "east": -116.36719
+  },
+  {
+   "file": "oregon-8.jmv",
+   "bytes": 40851978,
+   "sha256": "aa8febb7538da3cf0031f676932350ad5f58d1bb6d8c3317dda9d96673538101",
+   "south": 44.59047,
+   "west": -124.36523,
+   "north": 45.58329,
+   "east": -123.04688
+  },
+  {
+   "file": "oregon-9.jmv",
+   "bytes": 32303588,
+   "sha256": "a1ea4bfafa111df62d8e0a9ee959e6350564da93d731adabc392161f1af3b83c",
+   "south": 44.59047,
+   "west": -117.42188,
+   "north": 45.58329,
+   "east": -116.36719
+  },
+  {
+   "file": "oregon-10.jmv",
+   "bytes": 25250451,
+   "sha256": "9b28c773289db937fa3167975084976af6b573a1c5983cce10a9dae953710039",
+   "south": 44.59047,
+   "west": -123.04688,
+   "north": 45.08904,
+   "east": -121.64062
+  },
+  {
+   "file": "oregon-11.jmv",
+   "bytes": 22563041,
+   "sha256": "9fd42df8147f26decafebfb6d076d3a77af43c0ccfb8dbdb5b79242b5135eaeb",
+   "south": 44.59047,
+   "west": -119.53125,
+   "north": 45.08904,
+   "east": -118.125
+  },
+  {
+   "file": "oregon-12.jmv",
+   "bytes": 24612902,
+   "sha256": "3fdeb7b744798fc16a214f13d894334683c0d8e101188e7d075be25a82af4aee",
+   "south": 43.58039,
+   "west": -124.54102,
+   "north": 44.59047,
+   "east": -123.75
+  },
+  {
+   "file": "oregon-13.jmv",
+   "bytes": 29101959,
+   "sha256": "c63efe14a5fc78ed19de2e2b590ae42e28d5e62029aa7d5b85bcbc6dd9f0d63e",
+   "south": 43.58039,
+   "west": -123.75,
+   "north": 44.59047,
+   "east": -123.04688
+  },
+  {
+   "file": "oregon-14.jmv",
+   "bytes": 30427282,
+   "sha256": "2dff16fd992c01ffc86dd42a667a8479c2884cacd0a0373b37c82e2ce36c1bb8",
+   "south": 43.58039,
+   "west": -123.04688,
+   "north": 44.59047,
+   "east": -122.34375
+  },
+  {
+   "file": "oregon-15.jmv",
+   "bytes": 26560682,
+   "sha256": "ec2afb7c66d78c3d1be669ad694f8f41fe4c5f1eb2297b68c4a66116ee79e94a",
+   "south": 43.58039,
+   "west": -122.34375,
+   "north": 44.59047,
+   "east": -121.64062
+  },
+  {
+   "file": "oregon-16.jmv",
+   "bytes": 24910415,
+   "sha256": "4cd9d565092c4e5f13634890b3b22b1a08aeb74501df1c227cf56bc7a9dfcc0f",
+   "south": 43.58039,
+   "west": -121.64062,
+   "north": 44.59047,
+   "east": -120.23438
+  },
+  {
+   "file": "oregon-17.jmv",
+   "bytes": 31300096,
+   "sha256": "bf7e84177db55347785e365999f622d243d8c2ecb880fa5c644845d56b3e9a75",
+   "south": 43.58039,
+   "west": -120.23438,
+   "north": 44.59047,
+   "east": -118.82812
+  },
+  {
+   "file": "oregon-18.jmv",
+   "bytes": 19300477,
+   "sha256": "f2036e250a2ba2804a5711a988f2a9b30529244e9a069ea4654968baf289a48b",
+   "south": 43.58039,
+   "west": -118.82812,
+   "north": 44.59047,
+   "east": -118.125
+  },
+  {
+   "file": "oregon-19.jmv",
+   "bytes": 29392040,
+   "sha256": "04840cfab2c2e2fc11c8fa993a2acd4b5deb05d89a9d86789a57a421128b8e56",
+   "south": 43.58039,
+   "west": -118.125,
+   "north": 44.59047,
+   "east": -116.80664
+  },
+  {
+   "file": "oregon-20.jmv",
+   "bytes": 39347390,
+   "sha256": "e66049c938d1739fa0d6b4f523e9d6522439d53438613870fd0cef5a96adc6aa",
+   "south": 42.55308,
+   "west": -124.93652,
+   "north": 43.58039,
+   "east": -123.75
+  },
+  {
+   "file": "oregon-21.jmv",
+   "bytes": 40477749,
+   "sha256": "be2b21e8eda8626c6bd99279d9c306c621900b3249fe9a3d77c10336fef4daaa",
+   "south": 42.55308,
+   "west": -123.75,
+   "north": 43.58039,
+   "east": -123.04688
+  },
+  {
+   "file": "oregon-22.jmv",
+   "bytes": 26753852,
+   "sha256": "e6fd493fe1afa37f5831d41e21fcb4b6828377117263f151665c873cc7aaafcb",
+   "south": 43.06889,
+   "west": -123.04688,
+   "north": 43.58039,
+   "east": -121.64062
+  },
+  {
+   "file": "oregon-23.jmv",
+   "bytes": 41482338,
+   "sha256": "c6d747c10b75e5c7b4e85b384a1bdb090b4f8eadf6d47842541df4043c19b53e",
+   "south": 41.93498,
+   "west": -121.64062,
+   "north": 43.58039,
+   "east": -118.82812
+  },
+  {
+   "file": "oregon-24.jmv",
+   "bytes": 39100705,
+   "sha256": "4146f80925c7aa7b06997ca3a04f0f3a12a15d6caba6453d46daae5d15715944",
+   "south": 41.93498,
+   "west": -118.82812,
+   "north": 43.58039,
+   "east": -116.93848
+  },
+  {
+   "file": "oregon-25.jmv",
+   "bytes": 40623008,
+   "sha256": "19dc2e7ad8bb168045b97c3c0f80b48a73f62c1ca4de2a6ca1b427859a909e19",
+   "south": 41.93498,
+   "west": -123.04688,
+   "north": 43.06889,
+   "east": -121.64062
+  },
+  {
+   "file": "oregon-26.jmv",
+   "bytes": 41122097,
+   "sha256": "abf9eddb5e8e16db202729bd40fcbb7b09012914a1231d55e5609ab0929d5fbc",
+   "south": 41.93498,
+   "west": -124.80469,
+   "north": 42.55308,
+   "east": -123.04688
+  }
+ ]
+}
