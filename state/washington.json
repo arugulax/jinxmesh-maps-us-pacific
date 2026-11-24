@@ -1,0 +1,215 @@
+{
+ "name": "washington",
+ "format": "JMVM 4",
+ "group": 58973,
+ "bytes": 742508433,
+ "pieces": [
+  {
+   "file": "washington-1.jmv",
+   "bytes": 30580944,
+   "sha256": "8acf850686a2b22abf439ac64d560a224cadce295d120fb7394ac414447ed361",
+   "south": 47.5172,
+   "west": -123.75,
+   "north": 49.03787,
+   "east": -123.04688
+  },
+  {
+   "file": "washington-2.jmv",
+   "bytes": 25593240,
+   "sha256": "7cbbadb378c4ae8cd01b86370e7c9f8a2149c7a8a277d539ee40887b0b7b2b96",
+   "south": 48.45835,
+   "west": -123.04688,
+   "north": 49.03787,
+   "east": -121.64062
+  },
+  {
+   "file": "washington-3.jmv",
+   "bytes": 33071591,
+   "sha256": "2c9d9c47623509694fbccf39a8f75565dce00b0befc1251ce0d84f0a22783284",
+   "south": 48.45835,
+   "west": -121.64062,
+   "north": 49.03787,
+   "east": -120.9375
+  },
+  {
+   "file": "washington-4.jmv",
+   "bytes": 40679693,
+   "sha256": "7295e0072e5f37d56eeed2d3a64626ba7f369fe9adf64a50ad4f6a3e7be26421",
+   "south": 48.45835,
+   "west": -120.9375,
+   "north": 49.03787,
+   "east": -119.53125
+  },
+  {
+   "file": "washington-5.jmv",
+   "bytes": 25781299,
+   "sha256": "54c270f16101260bd69c6be6d96d9e7348fe747e170cf32b8b2640eb9d918883",
+   "south": 48.45835,
+   "west": -119.53125,
+   "north": 49.03787,
+   "east": -118.125
+  },
+  {
+   "file": "washington-6.jmv",
+   "bytes": 36413317,
+   "sha256": "ef4521aa9b2d827c0d16e541fbb2ec360dec868c1d44a4f96ab2c7a9c33c1ab6",
+   "south": 47.98992,
+   "west": -118.125,
+   "north": 49.03787,
+   "east": -116.93848
+  },
+  {
+   "file": "washington-7.jmv",
+   "bytes": 26685266,
+   "sha256": "e5a63abf5276a2c68775dd70b0ce8bcb777f6ed4f0a24abe0f17e51ae58d72e4",
+   "south": 47.5172,
+   "west": -125.33203,
+   "north": 48.57479,
+   "east": -123.75
+  },
+  {
+   "file": "washington-8.jmv",
+   "bytes": 38061978,
+   "sha256": "f82abba074489105f4178648eb92379502e3a71d2eaeaea905a90af19f81b472",
+   "south": 47.5172,
+   "west": -123.04688,
+   "north": 48.45835,
+   "east": -121.64062
+  },
+  {
+   "file": "washington-9.jmv",
+   "bytes": 46575028,
+   "sha256": "fe56c577d7de665361febfdb8606856a3b25f1dc7243bbae921dbb2514e9fbce",
+   "south": 47.5172,
+   "west": -121.64062,
+   "north": 48.45835,
+   "east": -120.9375
+  },
+  {
+   "file": "washington-10.jmv",
+   "bytes": 35040420,
+   "sha256": "35145bf055391de1f259210ad817b6e85858b2b0eae3b6a898fa0dddc7335c75",
+   "south": 47.98992,
+   "west": -120.9375,
+   "north": 48.45835,
+   "east": -119.53125
+  },
+  {
+   "file": "washington-11.jmv",
+   "bytes": 21721097,
+   "sha256": "b2f7ceacd7226653631c68b9e0fce14745f6b5114bbba52c4d7d62f0ba5731f6",
+   "south": 47.98992,
+   "west": -119.53125,
+   "north": 48.45835,
+   "east": -118.125
+  },
+  {
+   "file": "washington-12.jmv",
+   "bytes": 34200352,
+   "sha256": "8476f5496cb48ade12db1fe668b21b0a48da9ece8b098a3450708c1d965a134a",
+   "south": 47.04018,
+   "west": -120.9375,
+   "north": 47.98992,
+   "east": -120.23438
+  },
+  {
+   "file": "washington-13.jmv",
+   "bytes": 20780296,
+   "sha256": "af58ac7abb43d84e1b6e750d5cfe42521f5484cd804e790b8fd5ddc53ff1ac72",
+   "south": 47.04018,
+   "west": -120.23438,
+   "north": 47.98992,
+   "east": -118.82812
+  },
+  {
+   "file": "washington-14.jmv",
+   "bytes": 41631871,
+   "sha256": "08f82a3a625ffeea4ccf3f2cef6a5a9fa7e4845c301780eccc2ba6b7ed0c9c52",
+   "south": 46.55886,
+   "west": -118.82812,
+   "north": 47.98992,
+   "east": -116.98242
+  },
+  {
+   "file": "washington-15.jmv",
+   "bytes": 36876918,
+   "sha256": "c803628905763f33450f6b463870fb422a60f9a8427b2994de9c42789ce43109",
+   "south": 46.55886,
+   "west": -124.7168,
+   "north": 47.5172,
+   "east": -123.04688
+  },
+  {
+   "file": "washington-16.jmv",
+   "bytes": 20138755,
+   "sha256": "a94ae3b5472a9dbb6474d9cf9d51d20c276903ef0fbc618d5bfcaab751521500",
+   "south": 46.55886,
+   "west": -123.04688,
+   "north": 47.5172,
+   "east": -122.34375
+  },
+  {
+   "file": "washington-17.jmv",
+   "bytes": 33839457,
+   "sha256": "a7aaf4fcde8f27e8634b6d6671fa221fb941de593cce68efb7573e8aac198ec0",
+   "south": 46.55886,
+   "west": -122.34375,
+   "north": 47.5172,
+   "east": -121.64062
+  },
+  {
+   "file": "washington-18.jmv",
+   "bytes": 37201967,
+   "sha256": "cd190dc150695248f597b6166d7d642b0bd44c1c1b4b69048062e8d0d0937d8b",
+   "south": 46.55886,
+   "west": -121.64062,
+   "north": 47.5172,
+   "east": -120.9375
+  },
+  {
+   "file": "washington-19.jmv",
+   "bytes": 37152700,
+   "sha256": "8b9be9cf47242812ce68ed222d486da88029d319e8b6f599284d117c252a2997",
+   "south": 45.58329,
+   "west": -120.9375,
+   "north": 47.04018,
+   "east": -118.82812
+  },
+  {
+   "file": "washington-20.jmv",
+   "bytes": 33349888,
+   "sha256": "e048680e4a0cbbe623f0c9b0e66ecacf1c8f2c9d28322753ff1a6f7a05a226e3",
+   "south": 45.49095,
+   "west": -124.40918,
+   "north": 46.55886,
+   "east": -122.34375
+  },
+  {
+   "file": "washington-21.jmv",
+   "bytes": 27601024,
+   "sha256": "f4014d678cd5fc04b258fa33f429901c9c76c7ffdbefac32e1def98e0f96b505",
+   "south": 46.07323,
+   "west": -122.34375,
+   "north": 46.55886,
+   "east": -120.9375
+  },
+  {
+   "file": "washington-22.jmv",
+   "bytes": 36945945,
+   "sha256": "9ccb2488e9018a840f773a5b6bd4df0f43e0ba648ba1f1fb5e8433298c1947b3",
+   "south": 45.95115,
+   "west": -118.82812,
+   "north": 46.55886,
+   "east": -116.85059
+  },
+  {
+   "file": "washington-23.jmv",
+   "bytes": 22585387,
+   "sha256": "3daa6039682545654de78908cd5fdc3f49b6b98dcc01a9db511fde8969148f45",
+   "south": 45.49095,
+   "west": -122.34375,
+   "north": 46.07323,
+   "east": -120.9375
+  }
+ ]
+}
