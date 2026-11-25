@@ -1,0 +1,467 @@
+{
+ "name": "california",
+ "format": "JMVM 4",
+ "group": 49402,
+ "bytes": 1532500579,
+ "pieces": [
+  {
+   "file": "california-1.jmv",
+   "bytes": 33732864,
+   "sha256": "1b2d9c23f1ee904acc73d526517f6d133c828c5708a534928e98ec70cabb5cb5",
+   "south": 41.50858,
+   "west": -124.67285,
+   "north": 42.06561,
+   "east": -123.04688
+  },
+  {
+   "file": "california-2.jmv",
+   "bytes": 34919910,
+   "sha256": "5dff354c6561ed2f0136d66b488489701d8b1cf9f317222f8c57bf944aefba17",
+   "south": 40.9799,
+   "west": -123.04688,
+   "north": 42.06561,
+   "east": -122.34375
+  },
+  {
+   "file": "california-3.jmv",
+   "bytes": 20342622,
+   "sha256": "2f1a068154e5f330481036469e0e38823084b5a7696ccbbbe21d7dae6dd4db28",
+   "south": 40.9799,
+   "west": -122.34375,
+   "north": 42.06561,
+   "east": -121.64062
+  },
+  {
+   "file": "california-4.jmv",
+   "bytes": 22385503,
+   "sha256": "7503b34bcf0a6a13c3ba08a405dea253f32d7a9d3be38dd87359f3c46c85152c",
+   "south": 40.9799,
+   "west": -121.64062,
+   "north": 42.03297,
+   "east": -119.92676
+  },
+  {
+   "file": "california-5.jmv",
+   "bytes": 20786811,
+   "sha256": "2e616f17c55b3823eb99e930771e5b4095854fd417aad3962fe907b298f1e38b",
+   "south": 40.44695,
+   "west": -124.76074,
+   "north": 41.50858,
+   "east": -123.75
+  },
+  {
+   "file": "california-6.jmv",
+   "bytes": 25700345,
+   "sha256": "17dc529dcdf2be07a3579f1cb34571c44837440defb2aa3e57a869d00ac83307",
+   "south": 40.9799,
+   "west": -123.75,
+   "north": 41.50858,
+   "east": -123.04688
+  },
+  {
+   "file": "california-7.jmv",
+   "bytes": 24435040,
+   "sha256": "aafcbbb2630b98f81ea6a1cfc37e03f3ad8a3f77e6f76e0586a2fdc0bf997e9c",
+   "south": 40.44695,
+   "west": -123.75,
+   "north": 40.9799,
+   "east": -123.04688
+  },
+  {
+   "file": "california-8.jmv",
+   "bytes": 22942168,
+   "sha256": "6967de55ae6577033cf66ab0bb2f066fa774ebe998e35a4f327132a5df1648c6",
+   "south": 40.44695,
+   "west": -123.04688,
+   "north": 40.9799,
+   "east": -122.34375
+  },
+  {
+   "file": "california-9.jmv",
+   "bytes": 23633613,
+   "sha256": "6aba4e595fa6aa6fa53fb08a9796cf6b628469adb5c04aaf955d27a4c72d6b1c",
+   "south": 39.90974,
+   "west": -122.34375,
+   "north": 40.9799,
+   "east": -121.64062
+  },
+  {
+   "file": "california-10.jmv",
+   "bytes": 39038977,
+   "sha256": "9386e62b3d6a81f2c9bfc300c6e04949595122537b918ca25c3df31b349fa2b7",
+   "south": 39.90974,
+   "west": -121.64062,
+   "north": 40.9799,
+   "east": -119.92676
+  },
+  {
+   "file": "california-11.jmv",
+   "bytes": 18101546,
+   "sha256": "12d8ee3c6657ae9ddbb7fd55a5b9bd94d71fb2a679f3c3f29281085dfc8e2020",
+   "south": 39.36828,
+   "west": -124.76074,
+   "north": 40.44695,
+   "east": -123.75
+  },
+  {
+   "file": "california-12.jmv",
+   "bytes": 40935417,
+   "sha256": "4bc2a60833c32bfa757dd722a5814f18c5ae88f7f9add31447ead09ba8190441",
+   "south": 39.36828,
+   "west": -123.75,
+   "north": 40.44695,
+   "east": -123.04688
+  },
+  {
+   "file": "california-13.jmv",
+   "bytes": 36627951,
+   "sha256": "49133a37f839d0eb549f0ac745688a22285a30ec67451a46746ef274c9583625",
+   "south": 39.36828,
+   "west": -123.04688,
+   "north": 40.44695,
+   "east": -122.34375
+  },
+  {
+   "file": "california-14.jmv",
+   "bytes": 35444281,
+   "sha256": "5a2c40928bdfdf17e04b52dc5324e594d679bf3278eb7e23318ff796c68bef48",
+   "south": 38.82259,
+   "west": -122.34375,
+   "north": 39.90974,
+   "east": -120.9375
+  },
+  {
+   "file": "california-15.jmv",
+   "bytes": 41233469,
+   "sha256": "4e1d2389abed519360d6888b26a27367692663d11b0e967f37cf3a4af6a7a4ff",
+   "south": 38.82259,
+   "west": -120.9375,
+   "north": 39.90974,
+   "east": -119.66309
+  },
+  {
+   "file": "california-16.jmv",
+   "bytes": 38440432,
+   "sha256": "7394e6ea11ae86a1f508473cbeb8932daf5003cdebf26e6aa1d19e221609f30d",
+   "south": 38.82259,
+   "west": -124.10156,
+   "north": 39.36828,
+   "east": -122.34375
+  },
+  {
+   "file": "california-17.jmv",
+   "bytes": 37792471,
+   "sha256": "94e243d0baa9473f5157e0f821b482c5c3b79901d288ce052349321ac0393f51",
+   "south": 37.16032,
+   "west": -123.96973,
+   "north": 38.82259,
+   "east": -122.34375
+  },
+  {
+   "file": "california-18.jmv",
+   "bytes": 44392836,
+   "sha256": "03c56394d70b0e53c69cf6dc91628708649d49607c390c4db76affb8f7ddcde9",
+   "south": 37.16032,
+   "west": -122.34375,
+   "north": 38.82259,
+   "east": -121.64062
+  },
+  {
+   "file": "california-19.jmv",
+   "bytes": 24584836,
+   "sha256": "1f4e8b7b21685fa29e8fdd90b806783012de84c152433909fa40f8fed45faa8d",
+   "south": 38.27269,
+   "west": -121.64062,
+   "north": 38.82259,
+   "east": -120.23438
+  },
+  {
+   "file": "california-20.jmv",
+   "bytes": 34959314,
+   "sha256": "1f2f81a6c5b14f1a5c90a03d8d7d0284894942915087059cfaaf3e6ea829edc3",
+   "south": 37.71859,
+   "west": -120.23438,
+   "north": 38.82259,
+   "east": -119.53125
+  },
+  {
+   "file": "california-21.jmv",
+   "bytes": 37849073,
+   "sha256": "26aeac4ce161fc187d83c0fc8b48339abbefe1ec385b03ab3ed3cf41aa120b89",
+   "south": 37.16032,
+   "west": -119.53125,
+   "north": 38.7198,
+   "east": -118.82812
+  },
+  {
+   "file": "california-22.jmv",
+   "bytes": 38137171,
+   "sha256": "ef9a5003a890005e2beaf47b4b15df2f8c04a7f35b1551bda67e5d42a63706c2",
+   "south": 37.16032,
+   "west": -121.64062,
+   "north": 38.27269,
+   "east": -120.23438
+  },
+  {
+   "file": "california-23.jmv",
+   "bytes": 30863196,
+   "sha256": "bbb4c254ee2040bb80ffdccc7e6b11802f9bec055c0a473e3b12663e2526fb1b",
+   "south": 37.16032,
+   "west": -118.82812,
+   "north": 38.23818,
+   "east": -117.33398
+  },
+  {
+   "file": "california-24.jmv",
+   "bytes": 18087435,
+   "sha256": "9d8b661d9e72366dd7eb102376d6779d6d4c772d372a0995c4dcff6edc9cff2c",
+   "south": 37.16032,
+   "west": -120.23438,
+   "north": 37.71859,
+   "east": -119.53125
+  },
+  {
+   "file": "california-25.jmv",
+   "bytes": 20756220,
+   "sha256": "bb5832070b52ed14df4eb478abdf0fe88ebb347e8adf762781c1aacee3c889f3",
+   "south": 35.71084,
+   "west": -122.69531,
+   "north": 37.16032,
+   "east": -121.64062
+  },
+  {
+   "file": "california-26.jmv",
+   "bytes": 19815995,
+   "sha256": "b5bf33b014d453a9d05f8c3cb6ce7e4b3db1f6aa0106b66ed598b144a96d816b",
+   "south": 36.59789,
+   "west": -121.64062,
+   "north": 37.16032,
+   "east": -120.9375
+  },
+  {
+   "file": "california-27.jmv",
+   "bytes": 38308502,
+   "sha256": "5da1ef33e3069b9710da4c4e701a4ff3226e7846bf04d04af7e3ca1f354f8ee0",
+   "south": 35.46067,
+   "west": -120.9375,
+   "north": 37.16032,
+   "east": -120.23438
+  },
+  {
+   "file": "california-28.jmv",
+   "bytes": 45613293,
+   "sha256": "e4f00157a06c5d625a915e2b1312b02f2a945cb5324191d46467a2e9de195483",
+   "south": 35.46067,
+   "west": -120.23438,
+   "north": 37.16032,
+   "east": -118.82812
+  },
+  {
+   "file": "california-29.jmv",
+   "bytes": 23917930,
+   "sha256": "584b0c3103a5ffa8cc79d09708e123ffc841a17617c605cb857ea033129f9624",
+   "south": 36.59789,
+   "west": -118.82812,
+   "north": 37.16032,
+   "east": -118.125
+  },
+  {
+   "file": "california-30.jmv",
+   "bytes": 31284939,
+   "sha256": "2674d08d51c37ebedba9570dd8a1aa2a605d4640e3541d70ec3980408c27fe97",
+   "south": 36.03133,
+   "west": -118.125,
+   "north": 37.16032,
+   "east": -117.42188
+  },
+  {
+   "file": "california-31.jmv",
+   "bytes": 26968320,
+   "sha256": "719533761c03f08688ebde526f51b3fdcb53c7fb9fc60c29349975e6610568c8",
+   "south": 36.03133,
+   "west": -117.42188,
+   "north": 37.16032,
+   "east": -116.71875
+  },
+  {
+   "file": "california-32.jmv",
+   "bytes": 27426911,
+   "sha256": "ae3e0c42f02d1fcde5a456a83e446d56c3840aa1f36a10a415ef0f7549d2c769",
+   "south": 34.88593,
+   "west": -116.71875,
+   "north": 36.70366,
+   "east": -116.01562
+  },
+  {
+   "file": "california-33.jmv",
+   "bytes": 32182906,
+   "sha256": "aa6894535c634b1369d2ca5b7f9afdb507dea40a5866e889def09185d50837f2",
+   "south": 35.46067,
+   "west": -121.64062,
+   "north": 36.59789,
+   "east": -120.9375
+  },
+  {
+   "file": "california-34.jmv",
+   "bytes": 43837515,
+   "sha256": "d75e4a3130bc7adb5bdff3b97b13659abdefbafada7639c9698bf945df041b4a",
+   "south": 35.46067,
+   "west": -118.82812,
+   "north": 36.59789,
+   "east": -118.125
+  },
+  {
+   "file": "california-35.jmv",
+   "bytes": 18356639,
+   "sha256": "163facbfbd6150fa8334faa7a78e872d056495b30e9a15a91323a35790757a1a",
+   "south": 34.88593,
+   "west": -116.01562,
+   "north": 36.13787,
+   "east": -114.56543
+  },
+  {
+   "file": "california-36.jmv",
+   "bytes": 25881819,
+   "sha256": "15202800fb0506c547547150aaca6722c4329925b86aec3aa4cb9bab36e35b80",
+   "south": 35.46067,
+   "west": -118.125,
+   "north": 36.03133,
+   "east": -116.71875
+  },
+  {
+   "file": "california-37.jmv",
+   "bytes": 31257283,
+   "sha256": "9ac6b089af4a09f4e522d45572d93e01098728c9d0f6849efba9ef8a58e4d095",
+   "south": 34.88593,
+   "west": -121.33301,
+   "north": 35.46067,
+   "east": -119.53125
+  },
+  {
+   "file": "california-38.jmv",
+   "bytes": 28279716,
+   "sha256": "201e3230b33fe9a1a0db50922b2867caac02d95eef349dc1e1687250d0e8ab99",
+   "south": 34.88593,
+   "west": -119.53125,
+   "north": 35.46067,
+   "east": -118.125
+  },
+  {
+   "file": "california-39.jmv",
+   "bytes": 34725220,
+   "sha256": "f8fb8fc7e7d0abf95fc19b849cf8e186833c1a5697b835b79b2fdc1bcc018d8c",
+   "south": 34.30714,
+   "west": -118.125,
+   "north": 35.46067,
+   "east": -116.71875
+  },
+  {
+   "file": "california-40.jmv",
+   "bytes": 29533815,
+   "sha256": "18ee18a08147039215eddd9e97f944043543270dbcbd5b093490ee57f3fafcfe",
+   "south": 32.99024,
+   "west": -120.9375,
+   "north": 34.88593,
+   "east": -119.53125
+  },
+  {
+   "file": "california-41.jmv",
+   "bytes": 30795448,
+   "sha256": "c851f886e1d6bf29d1906959982e8baa0c9f64cbdd42c710590005c0d973eb4f",
+   "south": 34.30714,
+   "west": -119.53125,
+   "north": 34.88593,
+   "east": -118.82812
+  },
+  {
+   "file": "california-42.jmv",
+   "bytes": 25345517,
+   "sha256": "96281956047c1deea8d59e7827c026590c210b3b4261976114243bfb1c3c5a7c",
+   "south": 34.30714,
+   "west": -118.82812,
+   "north": 34.88593,
+   "east": -118.125
+  },
+  {
+   "file": "california-43.jmv",
+   "bytes": 28637374,
+   "sha256": "1ec09f38aec97d59af1e0b7455b54a86e69847f213c2f9f47837b70a617e70fe",
+   "south": 34.30714,
+   "west": -116.71875,
+   "north": 34.88593,
+   "east": -114.08203
+  },
+  {
+   "file": "california-44.jmv",
+   "bytes": 27023816,
+   "sha256": "0443caf7c1e2cac94bf4ca14c224fda8e0e1273322ab3c4272ea914bc3651a06",
+   "south": 32.58385,
+   "west": -119.53125,
+   "north": 34.30714,
+   "east": -118.125
+  },
+  {
+   "file": "california-45.jmv",
+   "bytes": 29872549,
+   "sha256": "7ca4c55167a564baf1dab692e028e3e7bd4a94a56fa4460dd730d0bfb87aee9d",
+   "south": 33.72434,
+   "west": -118.125,
+   "north": 34.30714,
+   "east": -117.42188
+  },
+  {
+   "file": "california-46.jmv",
+   "bytes": 24483002,
+   "sha256": "10cfca29d5c4084df5883ddaaa11a531f52b7f4505c069d26ab37f74e54b1301",
+   "south": 33.72434,
+   "west": -117.42188,
+   "north": 34.30714,
+   "east": -116.71875
+  },
+  {
+   "file": "california-47.jmv",
+   "bytes": 19325216,
+   "sha256": "cb8c0976345d32ad7f019bd5952eca8c0a0a6b1ef926e2a3b01bca4acbbbbdae",
+   "south": 33.72434,
+   "west": -116.71875,
+   "north": 34.30714,
+   "east": -116.01562
+  },
+  {
+   "file": "california-48.jmv",
+   "bytes": 22157788,
+   "sha256": "26227c1c32facc46557a4fd581ba247858e169f59439c02040245bfcfe0edc9a",
+   "south": 32.58385,
+   "west": -116.01562,
+   "north": 34.30714,
+   "east": -115.3125
+  },
+  {
+   "file": "california-49.jmv",
+   "bytes": 24187656,
+   "sha256": "a757efd432be2d121771eb0a59f86abb1d02e9663e393d1ec7fd08465d362dc5",
+   "south": 32.62087,
+   "west": -115.3125,
+   "north": 34.30714,
+   "east": -114.08203
+  },
+  {
+   "file": "california-50.jmv",
+   "bytes": 44316952,
+   "sha256": "a0b3d15f4c1ff2915baf0914f458c6dc940fa62738b898dd4bd1ef38c77fba90",
+   "south": 32.4727,
+   "west": -118.125,
+   "north": 33.72434,
+   "east": -116.71875
+  },
+  {
+   "file": "california-51.jmv",
+   "bytes": 32840957,
+   "sha256": "fff196e3667cecc31b6fa780b76a108d0f610ddfebf0b43692ca2af7a62bdb77",
+   "south": 32.50976,
+   "west": -116.71875,
+   "north": 33.72434,
+   "east": -116.01562
+  }
+ ]
+}
