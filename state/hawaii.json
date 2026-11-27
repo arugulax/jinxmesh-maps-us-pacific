@@ -1,0 +1,17 @@
+{
+ "name": "hawaii",
+ "format": "JMVM 4",
+ "group": 0,
+ "bytes": 39171071,
+ "pieces": [
+  {
+   "file": "hawaii.jmv",
+   "bytes": 39171071,
+   "sha256": "36a599d287ec54e2c9401dcc8df5a0e1d0855f3404308e8261adab87df2184e3",
+   "south": 18.85431,
+   "west": -178.46191,
+   "north": 28.49766,
+   "east": -154.73145
+  }
+ ]
+}
